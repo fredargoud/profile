@@ -1,13 +1,13 @@
 body {
-  background-image: url("images/background.jpg");
+  background-image: url("https://cdn.welcometothejungle.co/uploads/website_organization/cover_image/wttj_fr/le-wagon.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 1;
-  background-color: rgb(235,235,235);
+  background-color: rgba(235,235,235);
   font-family: Open-Sans, sans-serif;
-  color: #7d7d7d;
+  color: rgba(45,45,45);
   font-weight: 300;
   font-size: 15 px;
 }
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 300;
 }
 
@@ -65,11 +65,11 @@ a:hover {
 }
 
 .card {
-    background: white;
+    background: rgba(255, 255, 255, 0.95);
     padding: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     border-radius: 4px;
-    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 1px 2px 0px rgba(255, 255, 255, 0.2);
 }
 
 .text-center {
